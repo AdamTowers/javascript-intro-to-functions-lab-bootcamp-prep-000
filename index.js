@@ -22,6 +22,6 @@ function sayHiToGrandma(string) {
     console.log('YES INDEED!')
   }
   else if (string.'I love you, Grandma.') {
-    console.log(string.'I love you, too.')
+    console.log('I love you, too.')
   }
 }
